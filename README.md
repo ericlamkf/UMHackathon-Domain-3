@@ -53,12 +53,13 @@ This makes it a perfect match for **Grab's diverse user base** across Southeast 
 
 ---
 
+## 🎥 SlideShow
+Click here to open the slide [SlideShow](https://docs.google.com/presentation/d/10GkxOVLIlA6tCYDqiq2Web-vEWQIdWL4rPGd1mYL_qo/edit?usp=sharing)
+
+---
+
 ## 📍Figma Prototype Design
 We have successfully developed a comprehensive Figma prototype that visually demonstrates the functionalities and workflow of our app, offering an intuitive and engaging representation of how users will interact with it.
 
 Check out the Figma prototype here: [Figma Prototype](https://www.figma.com/design/f0fFGuKwL0JEWvd7gkqBL4/UM-Hackathon---DAX-Assistant?node-id=0-1&t=0QBHNRALLWQZTtDu-1)
 
----
-
-## 🎥 SlideShow
-Click here to open the slide [SlideShow](https://docs.google.com/presentation/d/10GkxOVLIlA6tCYDqiq2Web-vEWQIdWL4rPGd1mYL_qo/edit?usp=sharing)
