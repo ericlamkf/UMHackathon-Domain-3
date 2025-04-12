@@ -50,3 +50,9 @@ This makes it a perfect match for **Grab's diverse user base** across Southeast 
 3. 💾 Audio is saved as `.wav`
 4. 🤖 Whisper transcribes it into plain text
 5. 🪄 Text can then be translated, displayed, or used in chat
+
+---
+
+## 📍Figma Prototype Design
+We have successfully developed a comprehensive Figma prototype that visually demonstrates the functionalities and workflow of our app, offering an intuitive and engaging representation of how users will interact with it.
+Check out the Figma prototype here: [Figma Prototype]([https://example.com](https://www.figma.com/design/f0fFGuKwL0JEWvd7gkqBL4/UM-Hackathon---DAX-Assistant?node-id=0-1&t=0QBHNRALLWQZTtDu-1))
