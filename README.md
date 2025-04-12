@@ -58,8 +58,13 @@ Click here to open the slide [SlideShow](https://docs.google.com/presentation/d/
 
 ---
 
-## 📍Figma Prototype Design
+## 📍 Figma Prototype Design
 We have successfully developed a comprehensive Figma prototype that visually demonstrates the functionalities and workflow of our app, offering an intuitive and engaging representation of how users will interact with it.
 
 Check out the Figma prototype here: [Figma Prototype](https://www.figma.com/design/f0fFGuKwL0JEWvd7gkqBL4/UM-Hackathon---DAX-Assistant?node-id=0-1&t=0QBHNRALLWQZTtDu-1)
+
+---
+
+## 🤖 Whisper AI Demonstration
+Check out some code demonstration for Whisper AI here: [Google Colab](https://colab.research.google.com/drive/1Ud6oWprXUIfGilN7xR9mbJd1R8_XeO8p?usp=sharing#scrollTo=WMfuejAXk22Y)
 
